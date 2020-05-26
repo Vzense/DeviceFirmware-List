@@ -1,0 +1,7 @@
+20191220_b37:
+	1. Solve the psensor problem.
+
+20200313_b42:
+	1. Optimize ion-type memory data copy.
+	2. Solve the problem: when rgb switch to 1920X1080, sometimes frame rate becomes to 15fps.
+
