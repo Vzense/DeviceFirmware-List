@@ -1,0 +1,11 @@
+
+20200511:
+	Release Note：
+	1. Replace "pico zense" to "Vzense"
+	2. Solve the problem: when set to range 0, frame rate becomes 15fps.
+	3. When DCAM10 does not transfer image data, we would reboot DCAM10. After 5 times, if DCAM10 still does not transfer image data, we reboot the whole system.
+	4. If command port receive invalid read command, we only report this issue and do not reboot system.
+
+	note:
+	This version should be used with MCU firmware(version: DCAM10_20200511).
+
