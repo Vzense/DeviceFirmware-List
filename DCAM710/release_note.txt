@@ -1,0 +1,10 @@
+
+20190322:
+	1. Solve the problem: when depth mode and depth+ir mode switch repeatedly, depth camera would not work.
+	2. Make sure even switch to a range that is not calibrated, we can still transfer image data to SDK side.
+
+20190904
+	1. Solve the problem: when rgb data is compressed with mjpeg format, timestamp is abnormal and report data that are not synchronous.
+	2. When sdk switch to unsupported output mode, this operation would not take effect.
+	3. Solve the problem: switch from factory-test mode to depth+ir+15fps mode, image data is not valid.
+
