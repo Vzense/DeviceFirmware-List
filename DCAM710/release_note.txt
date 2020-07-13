@@ -12,5 +12,6 @@
 	1. Solve the problem: when upgrading from 20190322 version to 20190904, alignment of depth and rgb does not work well.
 	2. When setting pulse count, it works only if the depth range parameter equals current valid depth range.
 	3. When rgb resolution is set to 640*480, rgb image quality is optimized greatly.
+    4. PsDepthAndIR_15_RGB_30 mode is no longer supported.
 
 
