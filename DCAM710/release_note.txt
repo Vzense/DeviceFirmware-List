@@ -14,4 +14,7 @@
 	3. When rgb resolution is set to 640*480, rgb image quality is optimized greatly.
     4. PsDepthAndIR_15_RGB_30 mode is no longer supported.
 
+20200720:
+	1. Solve the problem: after camera is connected to win10-professional OS, it takes a few minutes to get image from camera module.
+
 
