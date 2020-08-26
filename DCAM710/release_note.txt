@@ -8,6 +8,8 @@
 	2. When sdk switch to unsupported output mode, this operation would not take effect.
 	3. Solve the problem: switch from factory-test mode to depth+ir+15fps mode, image data is not valid.
 
+	Note: For reducing power consumption, when switch to Depth+RGB, IR+RGB, Depth+IR output mode，and then the range is set to xfar, the depth or ir data is only 15fps.
+
 20200625:
 	1. Solve the problem: when upgrading from 20190322 version to 20190904, alignment of depth and rgb does not work well.
 	2. When setting pulse count, it works only if the depth range parameter equals current valid depth range.
@@ -16,5 +18,14 @@
 
 20200720:
 	1. Solve the problem: after camera is connected to win10-professional OS, it takes a few minutes to get image from camera module.
+
+	Note：This version has a bug：when switching to Depth+IR output mode, then switch to xfar range, the image data is not smooth and get stuck seriously.
+
+20200825:
+	1. Fix the bug: when switching to Depth+IR output mode, then switch to xfar range, the image data is not smooth and get stuck seriously. 
+
+
+
+
 
 
