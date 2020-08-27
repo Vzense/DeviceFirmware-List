@@ -1,0 +1,6 @@
+
+20200826:
+	1. Integrated MCU firmware upgrade function.
+	2. Adjust data thread and command thread synchronization mechanism to speed up response time.
+	3. Fixed probabilistic timeouts on The Linux platform.
+
