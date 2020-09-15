@@ -4,3 +4,7 @@
 	2. Adjust data thread and command thread synchronization mechanism to speed up response time.
 	3. Fixed probabilistic timeouts on The Linux platform.
 
+20200909：
+	1. Add a json file to configure the working state of the camera
+
+
