@@ -25,7 +25,7 @@
 	1. Fix the bug: when switching to Depth+IR output mode, then switch to xfar range, the image data is not smooth and get stuck seriously. 
 
 20200922_b75:
-	1. The initial output mode and other parameters can be configured by VzenseConfigTool. We can download VzenseConfigTool from following site:
+	1. The initial state(output_mode, frame_rate, gmm_gain, etc...) can be configured by VzenseConfigTool. We can download VzenseConfigTool from following site:
 	https://gitee.com/Vzense/VzenseConfigTool.
 	2. Support DepthAndIR_15_RGB_30 mode again.
 
