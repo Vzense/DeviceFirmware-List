@@ -29,6 +29,11 @@
 	https://gitee.com/Vzense/VzenseConfigTool.
 	2. Support DepthAndIR_15_RGB_30 mode again.
 
+20201010_b76:
+	1. Fix the bug: when in xfar-range, set pulse-count failed.
+	2. Fix the bug: when in wdr mode and set frame rate to 3fps, only near-range depth data is reported.
+
+
 
 
 
