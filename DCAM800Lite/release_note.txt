@@ -8,4 +8,5 @@
 	1. Add a json file to configure the working state of the camera.
 	2. Optimize camera power on process, shorten startup time.
 
-
+20201017：
+	1. Fixed an open device problem on ubuntu18.04.
