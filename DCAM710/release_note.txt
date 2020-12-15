@@ -33,6 +33,10 @@
 	1. Fix the bug: when in xfar-range, set pulse-count failed.
 	2. Fix the bug: when in wdr mode and set frame rate to 3fps, only near-range depth data is reported.
 
+20201214_b77:
+	1. Fix the bug: for some DCAM710 machines produced on 2019.08.28, when upgrading from 20190904_b63 to 20201010_b76, "MappedRGB" function does not work well.
+
+
 
 
 
