@@ -36,6 +36,10 @@
 20201214_b77:
 	1. Fix the bug: for some DCAM710 machines produced on 2019.08.28, when upgrading from 20190904_b63 to 20201010_b76, "MappedRGB" function does not work well.
 
+20201229_b80:
+	1. Support get alias name through UVC.
+	2. Range offset order keeps pace with SDK.
+	3. Default alias name for Firmware of factory version is empty.
 
 
 
