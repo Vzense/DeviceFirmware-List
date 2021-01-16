@@ -5,3 +5,6 @@
 	1. Optimize ion-type memory data copy.
 	2. Solve the problem: when rgb switch to 1920X1080, sometimes frame rate becomes to 15fps.
 
+20201229_b43:
+	1. Solve the problem: after camera is connected to win10-professional OS, it takes a few minutes to get image from camera module.
+
