@@ -1,4 +1,0 @@
-
-20210422:
-	1. config ip addr according to the configuration file
-	2. add reset button for DCAM550P
