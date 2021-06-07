@@ -4,3 +4,5 @@
 	2. add reset button for DCAM550P
 20210526:
 	1. fix abnormal data length caused by ring buffer read interface error.
+20210602:
+	1. reduce socket server restart time
