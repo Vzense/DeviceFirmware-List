@@ -2,3 +2,5 @@
 20210422:
 	1. config ip addr according to the configuration file
 	2. add reset button for DCAM550P
+20210621:
+	1. fix abnormal data length caused by ring buffer read interface error.
