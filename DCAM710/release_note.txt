@@ -44,8 +44,8 @@
 20210813_b87:
 	1. Fix the interface to get depth frame fate.
 	2. Fix frame fate error in range 5.
-	3. Fixed an issue where the first 30 frames were not reported in Depth mode.
-	4. Adjust UVC packet logic to optimize transmission time
+	3. Fixed an issue where the first 30 frames were not reported in only Depth mode.
+	4. Adjust UVC packet logic to optimize transmission delay.
 
 
 
