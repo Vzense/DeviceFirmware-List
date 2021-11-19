@@ -8,3 +8,6 @@
 	1. optimized the efficiency of parameter read/write interfaces.
 	2. adding software trigger cmd.
 	3. disable processing Unit configuration in the USB device descriptor.
+20211018_B41:
+	1. fixed the abnormal assignment of the mode field on the range offset interface.
+	2. an error is reported when the JSON file is abnormal.
