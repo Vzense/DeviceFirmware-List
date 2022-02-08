@@ -1,0 +1,3 @@
+
+20220122_B12:
+	1. DCAM560C first version firmware
