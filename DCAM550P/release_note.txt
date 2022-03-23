@@ -2,14 +2,19 @@
 20210422_B26:
 	1. config ip addr according to the configuration file
 	2. add reset button for DCAM550P
-20210621_B29:
+20210526_B28:
 	1. fix abnormal data length caused by ring buffer read interface error.
+20210602_B29:
+	1. reduce socket server restart time
 20210910_B40:
 	1. optimized the efficiency of parameter read/write interfaces.
 	2. adding software trigger cmd.
-	3. disable processing Unit configuration in the USB device descriptor.
+	3. add DSP processing to improve the image frame rate.
+	4. optimized the socket reconnection time.
 20211018_B41:
 	1. fixed the abnormal assignment of the mode field on the range offset interface.
 	2. an error is reported when the JSON file is abnormal.
 20220113_B42:
 	1. Fixed the problem that the camera cannot be connected again after the status is abnormal.
+20220310_B44:
+	1. Fixed the problem that the upgrade partition failed to mount periodically.
