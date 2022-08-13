@@ -21,3 +21,5 @@
 20220523_B49:
 	1. Add image data timestamp.
 	2. Add WDR Depth+IR datamode.
+20220801_B55:
+	1. Add new SN rule for DCAM550E.

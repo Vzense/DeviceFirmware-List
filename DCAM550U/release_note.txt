@@ -13,3 +13,5 @@
 	2. an error is reported when the JSON file is abnormal.
 20220310_B44:
 	1. Fixed the problem that the upgrade partition failed to mount periodically.
+20220728_B54:
+	1. Synchronize the latest version of the main branch.
