@@ -23,3 +23,5 @@
 	2. Add WDR Depth+IR datamode.
 20220801_B55:
 	1. Add new SN rule for DCAM550E.
+20221208_B56:
+	1. Fixed config file error for only one range.
